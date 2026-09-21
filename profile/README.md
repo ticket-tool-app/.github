@@ -17,7 +17,7 @@ A complete support system for Discord servers. Members open tickets from a panel
 
 ## Repositories
 
-Most of our repositories are private. [ticket-tool](https://github.com/ticket-tool-app/ticket-tool) is public: it carries the project README, the security policy, and the issue tracker for bug reports and feature requests.
+Most of our repositories are private. [community](https://github.com/ticket-tool-app/community) is public: it carries the project README, the security policy, and the issue tracker for bug reports and feature requests.
 
 ## Get in touch
 
